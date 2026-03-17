@@ -3,3 +3,4 @@
 - repositories
 - commite
 - configuration
+- upload
